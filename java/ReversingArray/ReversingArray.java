@@ -8,5 +8,6 @@ public class ReversingArray {
       answer[i] = num_list[num_list.length - i - 1];
     }
     System.out.println(Arrays.toString(answer));
+
   }
 }
